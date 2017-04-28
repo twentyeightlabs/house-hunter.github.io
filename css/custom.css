@@ -232,6 +232,7 @@ ul.external li a:hover {
     color: #818181;
     font-size: 16px;
     line-height: 22px;
+    visibility: hidden;
 }
 
 .fancybox-title-inside-wrap {
@@ -259,4 +260,9 @@ ul.external li a:hover {
     height: 50px;
     width: 50px;
     left: 0;
+}
+
+.h3, h3 {
+    font-size: 24px;
+    visibility: hidden;
 }
